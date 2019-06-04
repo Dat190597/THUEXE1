@@ -1,0 +1,14 @@
+C:\dat\THUEXE1\THUEXEAPI\EF.Contract\bin\Debug\EF.Contract.dll
+C:\dat\THUEXE1\THUEXEAPI\EF.Contract\bin\Debug\EF.Contract.pdb
+C:\dat\THUEXE1\THUEXEAPI\EF.Contract\bin\Debug\EF.Model.dll
+C:\dat\THUEXE1\THUEXEAPI\EF.Contract\bin\Debug\EntityFramework.dll
+C:\dat\THUEXE1\THUEXEAPI\EF.Contract\bin\Debug\EntityFramework.SqlServer.dll
+C:\dat\THUEXE1\THUEXEAPI\EF.Contract\bin\Debug\EF.Model.pdb
+C:\dat\THUEXE1\THUEXEAPI\EF.Contract\bin\Debug\EF.Model.dll.config
+C:\dat\THUEXE1\THUEXEAPI\EF.Contract\bin\Debug\EntityFramework.xml
+C:\dat\THUEXE1\THUEXEAPI\EF.Contract\bin\Debug\EntityFramework.SqlServer.xml
+C:\dat\THUEXE1\THUEXEAPI\EF.Contract\obj\Debug\EF.Contract.csprojAssemblyReference.cache
+C:\dat\THUEXE1\THUEXEAPI\EF.Contract\obj\Debug\EF.Contract.csproj.CoreCompileInputs.cache
+C:\dat\THUEXE1\THUEXEAPI\EF.Contract\obj\Debug\EF.Contract.csproj.CopyComplete
+C:\dat\THUEXE1\THUEXEAPI\EF.Contract\obj\Debug\EF.Contract.dll
+C:\dat\THUEXE1\THUEXEAPI\EF.Contract\obj\Debug\EF.Contract.pdb
